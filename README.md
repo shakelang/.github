@@ -1,5 +1,7 @@
 ### Shake is modern object-orientated programming language
 
+![Metrics](github-metrics.svg)
+
 <!-- A list of all members -->
 
 ## Members
