@@ -1,23 +1,34 @@
-### Shake is modern object-orientated programming language
+### Shake is a modern object-orientated programming language
 
-![Metrics](/github-metrics.svg)
+![Metrics](github-metrics.svg)
 
 <!-- A list of all members -->
 
 ## Members
 
-[![nsc-de][members/nsc-de/avatar]][members/nsc-de/github]
-[![miniminelp][members/miniminelp/avatar]][members/miniminelp/github]
+<a href="https://github.com/nsc-de"><img src="https://github.com/nsc-de.png?size=512" width="40px" height="40px"/></a>
+<a href="https://github.com/miniminelp"><img src="https://github.com/miniminelp.png?size=512" width="40px" height="40px"/></a>
 
-- [![nsc-de][members/nsc-de/avatar/small] Nicolas Schmidt (nsc-de)][members/nsc-de/github] mainly works on the core [shake][projects/shake/repo] language
-- [![miniminelp][members/miniminelp/avatar/small] Minimine (MinimineLP)][members/miniminelp/github] mainly works on the [ShakeMC][projects/shakemc/repo] project 
-  (A project to to compile shake to mcfunctions that can be executed in minecraft)
-
+<ul>
+  <li>
+    <a href="https://github.com/nsc-de">
+      <img src="https://github.com/nsc-de.png?size=512" width="12px" height="12px"/>
+      Nicolas Schmidt (nsc-de)
+    </a>
+    - Maintainer of the <a href="https://shakelang.github.io/">shake</a> programming language
+  </li>
+  <li>
+    <a href="https://github.com/miniminelp">
+      <img src="https://github.com/miniminelp.png?size=512" width="12px" height="12px"/>
+      Minimine (MinimineLP)
+    </a>
+  </li>
+</ul>
 
 <!-- Project URLs -->
+
 [projects/shake/repo]: https://github.com/shake-lang/shake
 [projects/shakemc/repo]: https://github.com/shake-lang/shakemc
-
 
 <!-- Member  Avatars: -->
 
