@@ -117,14 +117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.37150792102705" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="449.37150792102705" y="0" width="4.552199422450718" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.92370734347776" y="0" width="3.8629173981379563" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.7866247416157" y="0" width="0.9825597945470322" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.76918453616275" y="0" width="0.41988921842910176" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="459.18907375459185" y="0" width="0.3877607708070412" height="8" fill="#9DC3FF"/>
-                    <rect mask="url(#languages-bar)" x="459.5768345253989" y="0" width="0.3732818322405204" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.95011635763944" y="0" width="0.049883642360567845" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.3736760506816" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="449.3736760506816" y="0" width="4.549896289679421" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.92357234036103" y="0" width="3.8630417221519178" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.7866140625129" y="0" width="0.9825645352059089" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.76917859771885" y="0" width="0.4198912443124746" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="459.1890698420313" y="0" width="0.38776264167693664" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="459.57683248370824" y="0" width="0.3732836332523685" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.95011611696066" y="0" width="0.049883883039387865" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -314,56 +314,14 @@
                                     <div class="content">
                                         <div class="user">nsc-de</div>
                                         pushed 1 commit in
-                                        <span class="repo">shakelang/specification</span>
+                                        <span class="repo">shakelang/shakelang.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9d50bc5</div>
-                                        <div class="message">Update title</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">nsc-de</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/specification</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#431eeda</div>
-                                        <div class="message">Fix broken links</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">nsc-de</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/specification</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#82e9e3d</div>
-                                        <div class="message">Fix specification build</div>
+                                        <div class="sha">#bc56389</div>
+                                        <div class="message">Update contact</div>
                                     </div>
                                 </div>
                             </section>
@@ -383,8 +341,29 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d28241</div>
-                                        <div class="message">Move specification to specification.shakelang.com</div>
+                                        <div class="sha">#6af1c12</div>
+                                        <div class="message">Fix contact form</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">nsc-de</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">@nsc-de/bytecode-interpreter</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ab3962</div>
+                                        <div class="message">Add shason README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -404,8 +383,29 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9cf8384</div>
-                                        <div class="message">Add shason documentation</div>
+                                        <div class="sha">#12dd894</div>
+                                        <div class="message">Change contact link</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">nsc-de</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/shakelang.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7fbc4f8</div>
+                                        <div class="message">Remove specification submodule</div>
                                     </div>
                                 </div>
                             </section>
@@ -637,7 +637,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.59m out of 47.9m repositories</span>
+                                    <span class="gh">ranked 2.59m out of 54.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -675,7 +675,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.61m out of 47.9m repositories</span>
+                                    <span class="gh">ranked 2.61m out of 54.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -723,7 +723,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 13 Dec 2023, 22:08:14 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2023, 23:08:45 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
