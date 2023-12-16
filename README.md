@@ -7,7 +7,7 @@
 
 ## Members
 
-<a href="https://github.com/shakelang-bot"><img src="https://github.com/shakelang-bot?size=512" width="40px" height="40px"/></a>
+<a href="https://github.com/shakelang-bot"><img src="https://github.com/shakelang-bot.png?size=512" width="40px" height="40px"/></a>
 <a href="https://github.com/nsc-de"><img src="https://github.com/nsc-de.png?size=512" width="40px" height="40px"/></a>
 <a href="https://github.com/miniminelp"><img src="https://github.com/miniminelp.png?size=512" width="40px" height="40px"/></a>
 
