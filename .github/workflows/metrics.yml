@@ -45,3 +45,4 @@ jobs:
           plugin_achievements: yes
           plugin_code: no
           plugin_achievements_limit: 10
+          repositories_skipped: docs
