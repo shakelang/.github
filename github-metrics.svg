@@ -69,7 +69,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    48.6 MB used
+                                    48.7 MB used
                                 </div>
                             </section>
                             <section>
@@ -320,6 +320,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#90f9ead</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#ab99da2</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -447,27 +468,6 @@ unittests
                                         <br />
                                         <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
                                         Have feedback on the report? Share it here.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5e2e790</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -699,7 +699,7 @@ unittests
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.60m out of 59.8m repositories</span>
+                                    <span class="gh">ranked 2.60m out of 57.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -737,7 +737,7 @@ unittests
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.62m out of 59.8m repositories</span>
+                                    <span class="gh">ranked 2.62m out of 57.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -785,7 +785,7 @@ unittests
                 </div>
             </section>
             <footer>
-                <span>Last updated 30 Dec 2023, 01:39:29 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Dec 2023, 02:43:28 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
