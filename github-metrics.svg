@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1486" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1439" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.deleted{color:#da3633}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.token.coord{color:#d2a8ff;font-weight:700}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -309,6 +309,44 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">dependabot[bot]</div>
+                                        created new
+                      branch
+                                        <span class="code">dependabot/gradle/development/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.8.0-RC2</span>
+                                        in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#62de38f</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -414,65 +452,6 @@ unittests
                                         <br />
                                         <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
                                         Have feedback on the report? Share it here.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">dependabot[bot]</div>
-                                        pushed 3 commits in
-                                        <span class="repo">shakelang/shake</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/gradle/development/org.jlleitschuh.gradle.ktlint-12.0.3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1e712d3</div>
-                                        <div class="message">Bump org.jlleitschuh.gradle.ktlint from 11.6.1 to 12.0.3
-
-Bumps org.jlleitschuh.gradle.ktlint from 11.6.1 to 12.0.3.
-
----
-updated-dependencies:
-- dependency-name: org.jlleitschuh.gradle.ktlint
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95065a4</div>
-                                        <div class="message">Merge pull request #169 from shakelang/@shakebot/ktlint-format/ktlint-format-6a08179f41644ac3e73dbaafaab92b55e3eff0c9-1704405916
-
-[Automated] Format using ktlint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cd20fb</div>
-                                        <div class="message">[Automated] Format using ktlint</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">nsc-de</div>
-                                        deleted
-                      branch
-                                        <span class="code">@shakebot/ktlint-format/ktlint-format-6a08179f41644ac3e73dbaafaab92b55e3eff0c9-1704405916</span>
-                                        in
-                                        <span class="repo">shakelang/shake</span>
                                     </div>
                                 </div>
                             </section>
@@ -704,7 +683,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.60m out of 55.4m repositories</span>
+                                    <span class="gh">ranked 2.60m out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -742,7 +721,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.50m out of 55.4m repositories</span>
+                                    <span class="gh">ranked 2.63m out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -790,7 +769,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 5 Jan 2024, 02:51:43 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 03:23:01 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
