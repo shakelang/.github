@@ -320,8 +320,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">@nsc-de/bytecode-interpreter</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8b84fcd</div>
-                                        <div class="message">Add links to specification in kdoc of ConstantPoolEntry</div>
+                                        <div class="sha">#d50dfb8</div>
+                                        <div class="message">Update PathDescriptor kdoc</div>
                                     </div>
                                 </div>
                             </section>
@@ -341,8 +341,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">@nsc-de/bytecode-interpreter</span></div>
                                     <div class="commit">
-                                        <div class="sha">#82bc25b</div>
-                                        <div class="message">Document ConstantPoolEntry</div>
+                                        <div class="sha">#538d02d</div>
+                                        <div class="message">Update ConstantPool kdoc</div>
                                     </div>
                                 </div>
                             </section>
@@ -362,8 +362,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">@nsc-de/bytecode-interpreter</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37f0d70</div>
-                                        <div class="message">Introduce PCast.invoke() + PCast.create(), Test PCast</div>
+                                        <div class="sha">#9e8caf3</div>
+                                        <div class="message">Introduce ConstantPoolEntryTagException</div>
                                     </div>
                                 </div>
                             </section>
@@ -383,7 +383,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#be415bb</div>
+                                        <div class="sha">#2de6d41</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -404,8 +404,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">@nsc-de/bytecode-interpreter</span></div>
                                     <div class="commit">
-                                        <div class="sha">#86b640d</div>
-                                        <div class="message">Write kdoc for pcast</div>
+                                        <div class="sha">#8b84fcd</div>
+                                        <div class="message">Add links to specification in kdoc of ConstantPoolEntry</div>
                                     </div>
                                 </div>
                             </section>
@@ -637,7 +637,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.60m out of 54.7m repositories</span>
+                                    <span class="gh">ranked 2.60m out of 47m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -675,7 +675,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.57m out of 54.7m repositories</span>
+                                    <span class="gh">ranked 2.59m out of 47m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -723,7 +723,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 11 Jan 2024, 18:08:41 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2024, 19:11:23 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
