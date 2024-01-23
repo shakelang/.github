@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1430" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1477" class="">
     <defs>
         <style/>
     </defs>
@@ -312,6 +312,162 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 5 commits in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/gradle/development/org.jetbrains.kotlin-kotlin-gradle-plugin-1.9.22</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c5a6134</div>
+                                        <div class="message">Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.10 to 1.9.22
+
+Bumps [org.jetbrains.kotlin:kotlin-gradle-plugin](https://github.com/JetBrains/kotlin) from 1.9.10 to 1.9.22.
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v1.9.10...v1.9.22)
+
+---
+updated-dependencies:
+- dependency-name: org.jetbrains.kotlin:kotlin-gradle-plugin
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb464f1</div>
+                                        <div class="message">Merge pull request #194 from shakelang/dependabot/gradle/development/org.jetbrains.kotlinx-kotlinx-html-js-0.11.0
+
+Bump org.jetbrains.kotlinx:kotlinx-html-js from 0.10.1 to 0.11.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47fef68</div>
+                                        <div class="message">Bump org.jetbrains.kotlinx:kotlinx-html-js from 0.10.1 to 0.11.0
+
+Bumps [org.jetbrains.kotlinx:kotlinx-html-js](https://github.com/Kotlin/kotlinx.html) from 0.10.1 to 0.11.0.
+- [Release notes](https://github.com/Kotlin/kotlinx.html/releases)
+- [Commits](https://github.com/Kotlin/kotlinx.html/commits)
+
+---
+updated-dependencies:
+- dependency-name: org.jetbrains.kotlinx:kotlinx-html-js
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d2a8ef</div>
+                                        <div class="message">Merge pull request #193 from shakelang/dependabot/github_actions/development/actions/cache-4
+
+Bump actions/cache from 3 to 4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3930e85</div>
+                                        <div class="message">Bump actions/cache from 3 to 4
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3 to 4.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">dependabot[bot]</div>
+                                        deleted
+                      branch
+                                        <span class="code">dependabot/gradle/development/org.jetbrains.kotlinx-kotlinx-html-js-0.11.0</span>
+                                        in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 2 commits in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb464f1</div>
+                                        <div class="message">Merge pull request #194 from shakelang/dependabot/gradle/development/org.jetbrains.kotlinx-kotlinx-html-js-0.11.0
+
+Bump org.jetbrains.kotlinx:kotlinx-html-js from 0.10.1 to 0.11.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47fef68</div>
+                                        <div class="message">Bump org.jetbrains.kotlinx:kotlinx-html-js from 0.10.1 to 0.11.0
+
+Bumps [org.jetbrains.kotlinx:kotlinx-html-js](https://github.com/Kotlin/kotlinx.html) from 0.10.1 to 0.11.0.
+- [Release notes](https://github.com/Kotlin/kotlinx.html/releases)
+- [Commits](https://github.com/Kotlin/kotlinx.html/commits)
+
+---
+updated-dependencies:
+- dependency-name: org.jetbrains.kotlinx:kotlinx-html-js
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">dependabot[bot]</div>
+                                        created new
+                      branch
+                                        <span class="code">dependabot/gradle/development/org.jetbrains.kotlinx-kotlinx-html-js-0.11.0</span>
+                                        in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         <div class="user">github-actions[bot]</div>
                                         pushed 1 commit in
                                         <span class="repo">shakelang/.github</span>
@@ -320,142 +476,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5a54c7f</div>
+                                        <div class="sha">#4734d9f</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">dependabot[bot]</div>
-                                        deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/typescript-eslint/parser-6.19.1</span>
-                                        in
-                                        <span class="repo">shakelang/specification</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">shakelang-bot</div>
-                                        pushed 2 commits in
-                                        <span class="repo">shakelang/specification</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b90dd53</div>
-                                        <div class="message">Merge pull request #40 from shakelang/dependabot/npm_and_yarn/typescript-eslint/parser-6.19.1
-
-Bump @typescript-eslint/parser from 6.19.0 to 6.19.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a659303</div>
-                                        <div class="message">Bump @typescript-eslint/parser from 6.19.0 to 6.19.1
-
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 6.19.0 to 6.19.1.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v6.19.1/packages/parser)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">dependabot[bot]</div>
-                                        pushed 3 commits in
-                                        <span class="repo">shakelang/specification</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/typescript-eslint/parser-6.19.1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a659303</div>
-                                        <div class="message">Bump @typescript-eslint/parser from 6.19.0 to 6.19.1
-
-Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 6.19.0 to 6.19.1.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v6.19.1/packages/parser)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db8730b</div>
-                                        <div class="message">Merge pull request #39 from shakelang/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-6.19.1
-
-Bump @typescript-eslint/eslint-plugin from 6.19.0 to 6.19.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b06ebe</div>
-                                        <div class="message">Bump @typescript-eslint/eslint-plugin from 6.19.0 to 6.19.1
-
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 6.19.0 to 6.19.1.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v6.19.1/packages/eslint-plugin)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">dependabot[bot]</div>
-                                        deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-6.19.1</span>
-                                        in
-                                        <span class="repo">shakelang/specification</span>
                                     </div>
                                 </div>
                             </section>
@@ -687,7 +709,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.61m out of 55.1m repositories</span>
+                                    <span class="gh">ranked 2.59m out of 55.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -725,7 +747,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.63m out of 55.1m repositories</span>
+                                    <span class="gh">ranked 2.65m out of 55.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -773,7 +795,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 23 Jan 2024, 02:54:48 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2024, 03:26:28 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
