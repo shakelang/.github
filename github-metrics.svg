@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2093" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1777" class="">
     <defs>
         <style/>
     </defs>
@@ -320,6 +320,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#465847c</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b9d4d07</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -382,104 +403,6 @@
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dependabot/gradle/development/org.jetbrains.kotlin-kotlin-gradle-plugin-1.9.22</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c4c6c45</div>
-                                        <div class="message">Introduce shortcut for getting method name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9886573</div>
-                                        <div class="message">Remove method name constant (as it is not needed)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#358db9b</div>
-                                        <div class="message">Remove method name constant (as it is not needed)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0e4ab8</div>
-                                        <div class="message">Write kdoc for Method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09c28ad</div>
-                                        <div class="message">Write kdoc for Field</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8734c84</div>
-                                        <div class="message">Write kdoc for Class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8d8144</div>
-                                        <div class="message">Update kdoc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#149963d</div>
-                                        <div class="message">Update TypeDescriptor kdoc
-Fix: Unsigned long should have signature j instead of l for consistency (and to match spec)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d50dfb8</div>
-                                        <div class="message">Update PathDescriptor kdoc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#538d02d</div>
-                                        <div class="message">Update ConstantPool kdoc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e8caf3</div>
-                                        <div class="message">Introduce ConstantPoolEntryTagException</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b84fcd</div>
-                                        <div class="message">Add links to specification in kdoc of ConstantPoolEntry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82bc25b</div>
-                                        <div class="message">Document ConstantPoolEntry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37f0d70</div>
-                                        <div class="message">Introduce PCast.invoke() + PCast.create(), Test PCast</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86b640d</div>
-                                        <div class="message">Write kdoc for pcast</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2b17d7</div>
-                                        <div class="message">Introduce new flags (See https://spec.shakelang.com/bytecode/storage-format)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33b8edb</div>
-                                        <div class="message">Introduce ShakeCallStackElement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a179c8</div>
-                                        <div class="message">Implement run on ShakeCli</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad508b4</div>
-                                        <div class="message">Fix build.gradle.kts (exclude all dir)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2903f44</div>
-                                        <div class="message">Use commander library in shake cli</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">nsc-de</div>
-                                        pushed 98 commits in
-                                        <span class="repo">shakelang/shake</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
                                         <div class="sha">#c4c6c45</div>
                                         <div class="message">Introduce shortcut for getting method name</div>
@@ -791,7 +714,7 @@ Fix: Unsigned long should have signature j instead of l for consistency (and to 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.61m out of 48.2m repositories</span>
+                                    <span class="gh">ranked 2.61m out of 58.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -829,7 +752,7 @@ Fix: Unsigned long should have signature j instead of l for consistency (and to 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.62m out of 48.2m repositories</span>
+                                    <span class="gh">ranked 2.65m out of 58.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -877,7 +800,7 @@ Fix: Unsigned long should have signature j instead of l for consistency (and to 
                 </div>
             </section>
             <footer>
-                <span>Last updated 26 Jan 2024, 04:10:31 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2024, 05:11:25 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
