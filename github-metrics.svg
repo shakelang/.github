@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1414" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1893" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.deleted{color:#da3633}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -75,7 +75,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    54.1 MB used
+                                    54.2 MB used
                                 </div>
                             </section>
                             <section>
@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.8166601888314" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="443.8166601888314" y="0" width="8.331748188633224" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="452.14840837746465" y="0" width="3.1287174321392355" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.2771258096039" y="0" width="2.958398906769053" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.23552471637294" y="0" width="0.7157689926949435" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.9512937090679" y="0" width="0.46029120463967" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.41158491370754" y="0" width="0.30591116695105536" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="459.7174960806586" y="0" width="0.28250391934141" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.087692248949" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="444.087692248949" y="0" width="8.192211424139925" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="452.2799036730889" y="0" width="3.0763189321353477" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.3562226052242" y="0" width="2.9088528328617493" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.265075438086" y="0" width="0.7037815817574" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.9688570198434" y="0" width="0.45258243284700267" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.4214394526904" y="0" width="0.30078788987974936" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="459.72222734257014" y="0" width="0.2777726574298516" height="8" fill="#9DC3FF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -142,8 +142,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>5.76 MB</div>
-                                <div>96.48%</div>
+                                <div>5.87 MB</div>
+                                <div>96.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -155,7 +155,7 @@
                             </div>
                             <small>
                                 <div>40.6 kB</div>
-                                <div>0.68%</div>
+                                <div>0.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -167,7 +167,7 @@
                             </div>
                             <small>
                                 <div>9.30 kB</div>
-                                <div>0.16%</div>
+                                <div>0.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -193,7 +193,7 @@
                             </div>
                             <small>
                                 <div>108 kB</div>
-                                <div>1.81%</div>
+                                <div>1.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -205,7 +205,7 @@
                             </div>
                             <small>
                                 <div>38.4 kB</div>
-                                <div>0.64%</div>
+                                <div>0.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -318,16 +318,65 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">nsc-de</div>
-                                        pushed 1 commit in
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 10 commits in
                                         <span class="repo">shakelang/shake</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">@nsc-de/ktlint</span></div>
+                                    <div>on branch <span class="code">dependabot/gradle/development/io.gitlab.arturbosch.detekt-1.23.5</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6000e4e</div>
+                                        <div class="message">Bump io.gitlab.arturbosch.detekt from 1.23.4 to 1.23.5
+
+Bumps io.gitlab.arturbosch.detekt from 1.23.4 to 1.23.5.
+
+---
+updated-dependencies:
+- dependency-name: io.gitlab.arturbosch.detekt
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1da9bf</div>
+                                        <div class="message">Merge branch '@nsc-de/ktlint' into development</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fccfaa</div>
+                                        <div class="message">Fix more ktlint errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44c3163</div>
+                                        <div class="message">Fix ktlint warnings</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#e695573</div>
                                         <div class="message">Fix ktlint warnings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4ebfc4</div>
+                                        <div class="message">Fix ktlint warnings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c76c8e2</div>
+                                        <div class="message">Fix ktlint warnings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#649eeca</div>
+                                        <div class="message">Exclude failing shake bytecode tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc18dd7</div>
+                                        <div class="message">Merge pull request #209 from shakelang/@shakelang-bot/ktlint-format
+
+[Automated] Format using ktlint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c519b6a</div>
+                                        <div class="message">[Automated] Format using ktlint</div>
                                     </div>
                                 </div>
                             </section>
@@ -340,15 +389,123 @@
                                     </svg>
                                     <div class="content">
                                         <div class="user">nsc-de</div>
-                                        pushed 1 commit in
+                                        pushed 26 commits in
                                         <span class="repo">shakelang/shake</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">@nsc-de/ktlint</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4ebfc4</div>
+                                        <div class="sha">#c76c8e2</div>
                                         <div class="message">Fix ktlint warnings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#649eeca</div>
+                                        <div class="message">Exclude failing shake bytecode tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc18dd7</div>
+                                        <div class="message">Merge pull request #209 from shakelang/@shakelang-bot/ktlint-format
+
+[Automated] Format using ktlint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c519b6a</div>
+                                        <div class="message">[Automated] Format using ktlint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd6206e</div>
+                                        <div class="message">Merge pull request #206 from shakelang/dependabot/gradle/development/com.shakelang.util.changelog-plugin-0.7.5
+
+Bump com.shakelang.util.changelog:plugin from 0.7.3 to 0.7.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#062b85e</div>
+                                        <div class="message">Bump com.shakelang.util.changelog:plugin from 0.7.3 to 0.7.5
+
+Bumps [com.shakelang.util.changelog:plugin](https://github.com/shakelang/shake) from 0.7.3 to 0.7.5.
+- [Release notes](https://github.com/shakelang/shake/releases)
+- [Commits](https://github.com/shakelang/shake/compare/release/util/changelog/v0.7.3...release/util/changelog/v0.7.5)
+
+---
+updated-dependencies:
+- dependency-name: com.shakelang.util.changelog:plugin
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4740777</div>
+                                        <div class="message">Merge pull request #207 from shakelang/dependabot/gradle/development/com.shakelang.util-sarifmerge-0.2.3
+
+Bump com.shakelang.util:sarifmerge from 0.2.1 to 0.2.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07628ca</div>
+                                        <div class="message">Merge branch '@nsc-de/bytecode-interpreter' into development</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78b958b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/@shakelang-bot/ktlint-format' into @nsc-de/bytecode-interpreter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b8e528</div>
+                                        <div class="message">Ignore .hprof</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bd76dc</div>
+                                        <div class="message">Work on shakespeare</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c651d9</div>
+                                        <div class="message">Work on shakespeare</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36d8e93</div>
+                                        <div class="message">Fix accidental changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27d4ef2</div>
+                                        <div class="message">Bump com.shakelang.util:sarifmerge from 0.2.1 to 0.2.3
+
+Bumps [com.shakelang.util:sarifmerge](https://github.com/shakelang/shake) from 0.2.1 to 0.2.3.
+- [Release notes](https://github.com/shakelang/shake/releases)
+- [Commits](https://github.com/shakelang/shake/compare/release/util/shason/v0.2.1...release/util/shason/v0.2.3)
+
+---
+updated-dependencies:
+- dependency-name: com.shakelang.util:sarifmerge
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69b5ca4</div>
+                                        <div class="message">Work on ShakeGenerator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bd99fa</div>
+                                        <div class="message">Work on ShakeGenerator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a1622d</div>
+                                        <div class="message">Remove moko and fix settings.gradle.kts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5cf23c4</div>
+                                        <div class="message">Work on shakespeare</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4da2cb6</div>
+                                        <div class="message">Create Shakespeare package</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1db6b4e</div>
+                                        <div class="message">[Automated] Format using ktlint</div>
                                     </div>
                                 </div>
                             </section>
@@ -361,7 +518,7 @@
                                     </svg>
                                     <div class="content">
                                         <div class="user">nsc-de</div>
-                                        created new
+                                        deleted
                       branch
                                         <span class="code">@nsc-de/ktlint</span>
                                         in
@@ -378,15 +535,15 @@
                                     </svg>
                                     <div class="content">
                                         <div class="user">nsc-de</div>
-                                        pushed 1 commit in
+                                        pushed 6 commits in
                                         <span class="repo">shakelang/shake</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#649eeca</div>
-                                        <div class="message">Exclude failing shake bytecode tests</div>
+                                        <div class="sha">#a1da9bf</div>
+                                        <div class="message">Merge branch '@nsc-de/ktlint' into development</div>
                                     </div>
                                 </div>
                             </section>
@@ -398,16 +555,16 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
+                                        <div class="user">nsc-de</div>
                                         pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
+                                        <span class="repo">shakelang/shake</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">@nsc-de/ktlint</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c15ed92</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#2fccfaa</div>
+                                        <div class="message">Fix more ktlint errors</div>
                                     </div>
                                 </div>
                             </section>
@@ -639,7 +796,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.62m out of 76.5m repositories</span>
+                                    <span class="gh">ranked 2.62m out of 73m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -677,7 +834,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.40m out of 76.5m repositories</span>
+                                    <span class="gh">ranked 2.40m out of 73m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -725,7 +882,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 13 Feb 2024, 18:07:53 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2024, 19:11:48 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
