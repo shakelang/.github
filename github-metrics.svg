@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1927" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1610" class="">
     <defs>
         <style/>
     </defs>
@@ -326,6 +326,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#2131e49</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#0f3b10f</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -439,135 +460,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                     <div class="commit">
                                         <div class="sha">#c519b6a</div>
-                                        <div class="message">[Automated] Format using ktlint</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">nsc-de</div>
-                                        pushed 26 commits in
-                                        <span class="repo">shakelang/shake</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c76c8e2</div>
-                                        <div class="message">Fix ktlint warnings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#649eeca</div>
-                                        <div class="message">Exclude failing shake bytecode tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc18dd7</div>
-                                        <div class="message">Merge pull request #209 from shakelang/@shakelang-bot/ktlint-format
-
-[Automated] Format using ktlint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c519b6a</div>
-                                        <div class="message">[Automated] Format using ktlint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd6206e</div>
-                                        <div class="message">Merge pull request #206 from shakelang/dependabot/gradle/development/com.shakelang.util.changelog-plugin-0.7.5
-
-Bump com.shakelang.util.changelog:plugin from 0.7.3 to 0.7.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#062b85e</div>
-                                        <div class="message">Bump com.shakelang.util.changelog:plugin from 0.7.3 to 0.7.5
-
-Bumps [com.shakelang.util.changelog:plugin](https://github.com/shakelang/shake) from 0.7.3 to 0.7.5.
-- [Release notes](https://github.com/shakelang/shake/releases)
-- [Commits](https://github.com/shakelang/shake/compare/release/util/changelog/v0.7.3...release/util/changelog/v0.7.5)
-
----
-updated-dependencies:
-- dependency-name: com.shakelang.util.changelog:plugin
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4740777</div>
-                                        <div class="message">Merge pull request #207 from shakelang/dependabot/gradle/development/com.shakelang.util-sarifmerge-0.2.3
-
-Bump com.shakelang.util:sarifmerge from 0.2.1 to 0.2.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07628ca</div>
-                                        <div class="message">Merge branch '@nsc-de/bytecode-interpreter' into development</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78b958b</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/@shakelang-bot/ktlint-format' into @nsc-de/bytecode-interpreter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b8e528</div>
-                                        <div class="message">Ignore .hprof</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bd76dc</div>
-                                        <div class="message">Work on shakespeare</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c651d9</div>
-                                        <div class="message">Work on shakespeare</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36d8e93</div>
-                                        <div class="message">Fix accidental changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27d4ef2</div>
-                                        <div class="message">Bump com.shakelang.util:sarifmerge from 0.2.1 to 0.2.3
-
-Bumps [com.shakelang.util:sarifmerge](https://github.com/shakelang/shake) from 0.2.1 to 0.2.3.
-- [Release notes](https://github.com/shakelang/shake/releases)
-- [Commits](https://github.com/shakelang/shake/compare/release/util/shason/v0.2.1...release/util/shason/v0.2.3)
-
----
-updated-dependencies:
-- dependency-name: com.shakelang.util:sarifmerge
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69b5ca4</div>
-                                        <div class="message">Work on ShakeGenerator</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bd99fa</div>
-                                        <div class="message">Work on ShakeGenerator</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a1622d</div>
-                                        <div class="message">Remove moko and fix settings.gradle.kts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5cf23c4</div>
-                                        <div class="message">Work on shakespeare</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4da2cb6</div>
-                                        <div class="message">Create Shakespeare package</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1db6b4e</div>
                                         <div class="message">[Automated] Format using ktlint</div>
                                     </div>
                                 </div>
@@ -800,7 +692,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.62m out of 82.5m repositories</span>
+                                    <span class="gh">ranked 2.62m out of 79.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -838,7 +730,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.40m out of 82.5m repositories</span>
+                                    <span class="gh">ranked 2.40m out of 79.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -886,7 +778,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 13 Feb 2024, 21:10:31 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2024, 22:07:54 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
