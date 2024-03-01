@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1564" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1447" class="">
     <defs>
         <style/>
     </defs>
@@ -75,7 +75,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    56 MB used
+                                    53.5 MB used
                                 </div>
                             </section>
                             <section>
@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.83195462372834" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="443.83195462372834" y="0" width="8.34139515619518" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="452.1733497799235" y="0" width="3.101105572074703" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.27445535199826" y="0" width="2.9071777062401916" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.18163305823845" y="0" width="0.7061758766420203" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.88780893488047" y="0" width="0.5339636945743852" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.42177262945484" y="0" width="0.30061467458467234" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="459.7223873040395" y="0" width="0.27761269596052424" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.833341722239" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="443.833341722239" y="0" width="8.341421225378973" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="452.17476294761804" y="0" width="3.1011152638935906" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.2758782115116" y="0" width="2.905522169903962" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.1814003814156" y="0" width="0.7064050775579007" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.8878054589735" y="0" width="0.5339653633596942" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.4217708223332" y="0" width="0.30061561408928233" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="459.7223864364225" y="0" width="0.27761356357754263" height="8" fill="#9DC3FF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -166,7 +166,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>9.33 kB</div>
+                                <div>9.34 kB</div>
                                 <div>0.15%</div>
                             </small>
                         </div>
@@ -320,35 +320,14 @@
                                     <div class="content">
                                         <div class="user">nsc-de</div>
                                         pushed 1 commit in
-                                        <span class="repo">shakelang/shakelang.github.io</span>
+                                        <span class="repo">shakelang/specification</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#71c8531</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">nsc-de</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/shakelang.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8a75460</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#94e6c08</div>
+                                        <div class="message">Update graphics to match theme</div>
                                     </div>
                                 </div>
                             </section>
@@ -368,8 +347,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8a75460</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#d7dbf48</div>
+                                        <div class="message">Update graphics</div>
                                     </div>
                                 </div>
                             </section>
@@ -382,43 +361,15 @@
                                     </svg>
                                     <div class="content">
                                         <div class="user">nsc-de</div>
-                                        pushed 8 commits in
-                                        <span class="repo">shakelang/shakelang.com</span>
+                                        pushed 2 commits in
+                                        <span class="repo">shakelang/specification</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00002a9</div>
-                                        <div class="message">Update try-shake to match theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbb08d7</div>
-                                        <div class="message">Update docusaurus theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0e2504</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e42749f</div>
-                                        <div class="message">Merge branch 'shakelang:main' into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1829606</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4264dd9</div>
-                                        <div class="message">Merge branch 'shakelang:main' into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03a82e2</div>
-                                        <div class="message">Merge branch 'shakelang:main' into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ba73c8</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#e014f46</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/shakelang/Specification</div>
                                     </div>
                                 </div>
                             </section>
@@ -432,14 +383,35 @@
                                     <div class="content">
                                         <div class="user">nsc-de</div>
                                         pushed 1 commit in
-                                        <span class="repo">shakelang/shakelang.github.io</span>
+                                        <span class="repo">shakelang/shakelang.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00002a9</div>
-                                        <div class="message">Update try-shake to match theme</div>
+                                        <div class="sha">#0c0eb89</div>
+                                        <div class="message">Update docs theme</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">nsc-de</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/shakelang.com</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#84ce44b</div>
+                                        <div class="message">Update theme</div>
                                     </div>
                                 </div>
                             </section>
@@ -671,7 +643,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.63m out of 74.7m repositories</span>
+                                    <span class="gh">ranked 2.63m out of 74.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -709,7 +681,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.42m out of 74.7m repositories</span>
+                                    <span class="gh">ranked 2.42m out of 74.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -757,7 +729,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 1 Mar 2024, 11:09:35 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Mar 2024, 12:07:57 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
