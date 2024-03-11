@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1840" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1644" class="">
     <defs>
         <style/>
     </defs>
@@ -326,6 +326,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4b925f0</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#eb90854</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -399,85 +420,6 @@ Bumps [org.jetbrains.dokka:all-modules-page-plugin](https://github.com/Kotlin/do
 ---
 updated-dependencies:
 - dependency-name: org.jetbrains.dokka:all-modules-page-plugin
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4070ada</div>
-                                        <div class="message">Merge branch 'development'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#430ecc4</div>
-                                        <div class="message">Merge branch '@nsc-de/bytecode-interpreter' into development</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#439ed5a</div>
-                                        <div class="message">Update plugins</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98900a1</div>
-                                        <div class="message">Apply default HierarchyTemplate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c2434c</div>
-                                        <div class="message">Apply default HierarchyTemplate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cfc758</div>
-                                        <div class="message">Make embed plugin compatible with kotlin 1.9.20</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24687d1</div>
-                                        <div class="message">Update kotlin to 1.9.20</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4917dc</div>
-                                        <div class="message">release updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#312a03b</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/@shakelang-bot/ktlint-format' into @nsc-de/bytecode-interpreter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c58cb3</div>
-                                        <div class="message">Release updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5101460</div>
-                                        <div class="message">[Automated] Format using ktlint</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">dependabot[bot]</div>
-                                        pushed 12 commits in
-                                        <span class="repo">shakelang/shake</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/gradle/development/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.8.0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a06dc2</div>
-                                        <div class="message">Bump org.jetbrains.kotlinx:kotlinx-coroutines-core
-
-Bumps [org.jetbrains.kotlinx:kotlinx-coroutines-core](https://github.com/Kotlin/kotlinx.coroutines) from 1.8.0-RC2 to 1.8.0.
-- [Release notes](https://github.com/Kotlin/kotlinx.coroutines/releases)
-- [Changelog](https://github.com/Kotlin/kotlinx.coroutines/blob/master/CHANGES.md)
-- [Commits](https://github.com/Kotlin/kotlinx.coroutines/compare/1.8.0-RC2...1.8.0)
-
----
-updated-dependencies:
-- dependency-name: org.jetbrains.kotlinx:kotlinx-coroutines-core
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
@@ -758,7 +700,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.63m out of 77.9m repositories</span>
+                                    <span class="gh">ranked 2.63m out of 81.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -796,7 +738,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.21m out of 77.9m repositories</span>
+                                    <span class="gh">ranked 2.21m out of 81.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -844,7 +786,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 11 Mar 2024, 17:10:49 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2024, 18:08:59 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
