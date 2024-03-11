@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1447" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2003" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.deleted{color:#da3633}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -63,7 +63,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    154 Releases
+                                    155 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.1409492565744" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="441.1409492565744" y="0" width="9.894255427976788" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="451.0352046845512" y="0" width="3.597357884896908" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.6325625694481" y="0" width="3.4174048009594866" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.04996737040756" y="0" width="0.7574580665643684" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.8074254369719" y="0" width="0.572555867153465" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.3799813041254" y="0" width="0.3223415701007108" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="459.7023228742261" y="0" width="0.29767712577385047" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.14139164239936" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="441.14139164239936" y="0" width="9.894023333667851" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="451.0354149760672" y="0" width="3.5972734999425913" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.63268847600983" y="0" width="3.417324637251221" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.05001311326106" y="0" width="0.7574402985061465" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.8074534117672" y="0" width="0.5725424364350767" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.37999584820227" y="0" width="0.32233400877944735" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="459.70232985698175" y="0" width="0.2976701430183217" height="8" fill="#9DC3FF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -318,100 +318,269 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 12 commits in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/gradle/development/org.jetbrains.dokka-all-modules-page-plugin-1.9.20</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#86014c4</div>
+                                        <div class="message">Bump org.jetbrains.dokka:all-modules-page-plugin from 1.9.10 to 1.9.20
+
+Bumps [org.jetbrains.dokka:all-modules-page-plugin](https://github.com/Kotlin/dokka) from 1.9.10 to 1.9.20.
+- [Release notes](https://github.com/Kotlin/dokka/releases)
+- [Commits](https://github.com/Kotlin/dokka/compare/v1.9.10...v1.9.20)
+
+---
+updated-dependencies:
+- dependency-name: org.jetbrains.dokka:all-modules-page-plugin
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4070ada</div>
+                                        <div class="message">Merge branch 'development'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#430ecc4</div>
+                                        <div class="message">Merge branch '@nsc-de/bytecode-interpreter' into development</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#439ed5a</div>
+                                        <div class="message">Update plugins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98900a1</div>
+                                        <div class="message">Apply default HierarchyTemplate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c2434c</div>
+                                        <div class="message">Apply default HierarchyTemplate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cfc758</div>
+                                        <div class="message">Make embed plugin compatible with kotlin 1.9.20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24687d1</div>
+                                        <div class="message">Update kotlin to 1.9.20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4917dc</div>
+                                        <div class="message">release updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#312a03b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/@shakelang-bot/ktlint-format' into @nsc-de/bytecode-interpreter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c58cb3</div>
+                                        <div class="message">Release updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5101460</div>
+                                        <div class="message">[Automated] Format using ktlint</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 12 commits in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/gradle/development/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.8.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3a06dc2</div>
+                                        <div class="message">Bump org.jetbrains.kotlinx:kotlinx-coroutines-core
+
+Bumps [org.jetbrains.kotlinx:kotlinx-coroutines-core](https://github.com/Kotlin/kotlinx.coroutines) from 1.8.0-RC2 to 1.8.0.
+- [Release notes](https://github.com/Kotlin/kotlinx.coroutines/releases)
+- [Changelog](https://github.com/Kotlin/kotlinx.coroutines/blob/master/CHANGES.md)
+- [Commits](https://github.com/Kotlin/kotlinx.coroutines/compare/1.8.0-RC2...1.8.0)
+
+---
+updated-dependencies:
+- dependency-name: org.jetbrains.kotlinx:kotlinx-coroutines-core
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4070ada</div>
+                                        <div class="message">Merge branch 'development'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#430ecc4</div>
+                                        <div class="message">Merge branch '@nsc-de/bytecode-interpreter' into development</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#439ed5a</div>
+                                        <div class="message">Update plugins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98900a1</div>
+                                        <div class="message">Apply default HierarchyTemplate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c2434c</div>
+                                        <div class="message">Apply default HierarchyTemplate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cfc758</div>
+                                        <div class="message">Make embed plugin compatible with kotlin 1.9.20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24687d1</div>
+                                        <div class="message">Update kotlin to 1.9.20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4917dc</div>
+                                        <div class="message">release updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#312a03b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/@shakelang-bot/ktlint-format' into @nsc-de/bytecode-interpreter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c58cb3</div>
+                                        <div class="message">Release updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5101460</div>
+                                        <div class="message">[Automated] Format using ktlint</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">dependabot[bot]</div>
+                                        deleted
+                      branch
+                                        <span class="code">dependabot/gradle/development/org.jetbrains.kotlinx-kover-gradle-plugin-0.7.6</span>
+                                        in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 12 commits in
+                                        <span class="repo">shakelang/shake</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/gradle/development/org.jetbrains.kotlin-kotlin-gradle-plugin-1.9.23</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ea33b8f</div>
+                                        <div class="message">Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.10 to 1.9.23
+
+Bumps [org.jetbrains.kotlin:kotlin-gradle-plugin](https://github.com/JetBrains/kotlin) from 1.9.10 to 1.9.23.
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/v1.9.23/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v1.9.10...v1.9.23)
+
+---
+updated-dependencies:
+- dependency-name: org.jetbrains.kotlin:kotlin-gradle-plugin
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4070ada</div>
+                                        <div class="message">Merge branch 'development'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#430ecc4</div>
+                                        <div class="message">Merge branch '@nsc-de/bytecode-interpreter' into development</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#439ed5a</div>
+                                        <div class="message">Update plugins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98900a1</div>
+                                        <div class="message">Apply default HierarchyTemplate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c2434c</div>
+                                        <div class="message">Apply default HierarchyTemplate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cfc758</div>
+                                        <div class="message">Make embed plugin compatible with kotlin 1.9.20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24687d1</div>
+                                        <div class="message">Update kotlin to 1.9.20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4917dc</div>
+                                        <div class="message">release updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#312a03b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/@shakelang-bot/ktlint-format' into @nsc-de/bytecode-interpreter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c58cb3</div>
+                                        <div class="message">Release updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5101460</div>
+                                        <div class="message">[Automated] Format using ktlint</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         <div class="user">nsc-de</div>
                                         pushed 1 commit in
                                         <span class="repo">shakelang/shake</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">@nsc-de/bytecode-interpreter</span></div>
+                                    <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#24687d1</div>
-                                        <div class="message">Update kotlin to 1.9.20</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3d354c0</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0e41b89</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bcaf0e2</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ff4607c</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#4070ada</div>
+                                        <div class="message">Merge branch 'development'</div>
                                     </div>
                                 </div>
                             </section>
@@ -643,7 +812,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.63m out of 75.5m repositories</span>
+                                    <span class="gh">ranked 2.63m out of 79.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -681,7 +850,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.21m out of 75.5m repositories</span>
+                                    <span class="gh">ranked 2.21m out of 79.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -729,7 +898,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 11 Mar 2024, 13:15:35 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2024, 14:09:11 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
