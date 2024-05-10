@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.3602447473989" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="440.3602447473989" y="0" width="10.927941788894401" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="451.2881865362933" y="0" width="3.585792795982469" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.8739793322758" y="0" width="3.148247594780148" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.02222692705595" y="0" width="0.6978001363896266" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.7200270634455" y="0" width="0.5274609642782342" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.24748802772376" y="0" width="0.45555825099558417" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.7030462787193" y="0" width="0.29695372128063263" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.610982538843" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="438.610982538843" y="0" width="12.711810314078134" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="451.32279285292117" y="0" width="3.5715487948480753" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.89434164776924" y="0" width="3.1357416735340444" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.03008332130327" y="0" width="0.6950282344700704" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.72511155577337" y="0" width="0.5253657080821859" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.25047726385554" y="0" width="0.45374861708387737" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.7042258809394" y="0" width="0.2957741190605816" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -143,7 +143,7 @@
                             </div>
                             <small>
                                 <div>5.89 MB</div>
-                                <div>95.73%</div>
+                                <div>95.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -192,8 +192,8 @@
                                 MDX
                             </div>
                             <small>
-                                <div>146 kB</div>
-                                <div>2.38%</div>
+                                <div>170 kB</div>
+                                <div>2.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -318,6 +318,48 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        <div class="user">nsc-de</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/specification</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3098101</div>
+                                        <div class="message">Update primitives spec</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#10ae095</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         <div class="user">github-actions[bot]</div>
                                         pushed 1 commit in
                                         <span class="repo">shakelang/.github</span>
@@ -369,48 +411,6 @@
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <div class="sha">#1dc852b</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fed3737</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5bce6f1</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -643,7 +643,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.67m out of 195m repositories</span>
+                                    <span class="gh">ranked 2.67m out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -681,7 +681,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.49m out of 195m repositories</span>
+                                    <span class="gh">ranked 2.49m out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -729,7 +729,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 10 May 2024, 14:16:06 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 15:10:41 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
