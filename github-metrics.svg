@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1480" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1464" class="">
     <defs>
         <style/>
     </defs>
@@ -326,6 +326,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#7f22ad4</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#fadef5f</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -429,47 +450,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <span class="code">dependabot/npm_and_yarn/typescript-5.5.2</span>
                                         in
                                         <span class="repo">shakelang/specification</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">shakelang-bot</div>
-                                        pushed 2 commits in
-                                        <span class="repo">shakelang/specification</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#257a322</div>
-                                        <div class="message">Merge pull request #128 from shakelang/dependabot/npm_and_yarn/typescript-5.5.2
-
-Bump typescript from 5.4.5 to 5.5.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5014e7c</div>
-                                        <div class="message">Bump typescript from 5.4.5 to 5.5.2
-
-Bumps [typescript](https://github.com/Microsoft/TypeScript) from 5.4.5 to 5.5.2.
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release.yml)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v5.4.5...v5.5.2)
-
----
-updated-dependencies:
-- dependency-name: typescript
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -622,7 +602,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developers
-                                    <span class="gh">ranked 6m out of 138m users</span>
+                                    <span class="gh">ranked 6m out of 139m users</span>
                                 </div>
                                 <div class="text">Published 11 public repositories</div>
                             </div>
@@ -701,7 +681,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.70m out of 205m repositories</span>
+                                    <span class="gh">ranked 2.70m out of 197m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -739,7 +719,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.54m out of 205m repositories</span>
+                                    <span class="gh">ranked 2.54m out of 197m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -787,7 +767,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 21 Jun 2024, 05:11:10 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2024, 06:12:40 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
