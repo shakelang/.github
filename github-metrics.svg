@@ -101,7 +101,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    1 Watcher
+                                    2 Watchers
                                 </div>
                             </section>
                         </div>
@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.6358306684327" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="436.6358306684327" y="0" width="13.974183343340977" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="450.61001401177367" y="0" width="3.827081470158402" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.43709548193203" y="0" width="3.601858763190714" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.03895424512274" y="0" width="0.691898385077437" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.7308526302002" y="0" width="0.5229998825505005" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.25385251275065" y="0" width="0.45170529745576027" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.7055578102064" y="0" width="0.29444218979355796" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.3915833400022" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="436.3915833400022" y="0" width="13.966366401374986" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="450.35794974137724" y="0" width="3.9539694483299535" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.31191918970717" y="0" width="3.7281320340712516" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.04005122377845" y="0" width="0.6915113478252679" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.7315625716037" y="0" width="0.5227073245075959" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.25426989611134" y="0" width="0.4514526205007506" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.70572251661207" y="0" width="0.294277483387938" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -143,7 +143,7 @@
                             </div>
                             <small>
                                 <div>5.89 MB</div>
-                                <div>94.92%</div>
+                                <div>94.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -154,8 +154,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>51.6 kB</div>
-                                <div>0.83%</div>
+                                <div>53.3 kB</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -204,8 +204,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>48.6 kB</div>
-                                <div>0.78%</div>
+                                <div>50.3 kB</div>
+                                <div>0.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -326,6 +326,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a9c203e</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#998d031</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -390,27 +411,6 @@
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <div class="sha">#8252fcc</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ed73a49</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -643,7 +643,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.70m out of 205m repositories</span>
+                                    <span class="gh">ranked 2.70m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -681,7 +681,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.32m out of 205m repositories</span>
+                                    <span class="gh">ranked 2.32m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -729,7 +729,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 29 Jun 2024, 12:09:30 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2024, 13:09:12 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
