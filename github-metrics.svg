@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1727" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1580" class="">
     <defs>
         <style/>
     </defs>
@@ -75,7 +75,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    62.5 MB used
+                                    62.6 MB used
                                 </div>
                             </section>
                             <section>
@@ -326,6 +326,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#79f35d4</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#31d5f9d</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -400,160 +421,6 @@ Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescrip
 ---
 updated-dependencies:
 - dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93931bb</div>
-                                        <div class="message">Merge pull request #187 from shakelang/dependabot/npm_and_yarn/express-4.21.0
-
-Bump express from 4.19.2 to 4.21.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0afcdd</div>
-                                        <div class="message">Merge pull request #184 from shakelang/dependabot/npm_and_yarn/multi-cf87d80143
-
-Bump send and express</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe184b4</div>
-                                        <div class="message">Merge pull request #186 from shakelang/dependabot/npm_and_yarn/multi-d66d039ac5
-
-Bump serve-static and express</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddf9509</div>
-                                        <div class="message">Merge pull request #185 from shakelang/dependabot/npm_and_yarn/multi-9423f4c335
-
-Bump body-parser and express</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cdaa2a</div>
-                                        <div class="message">Bump express from 4.19.2 to 4.21.0
-
-Bumps [express](https://github.com/expressjs/express) from 4.19.2 to 4.21.0.
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
-
----
-updated-dependencies:
-- dependency-name: express
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f067e0</div>
-                                        <div class="message">Bump serve-static and express
-
-Bumps [serve-static](https://github.com/expressjs/serve-static) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
-
-Updates `serve-static` from 1.15.0 to 1.16.2
-- [Release notes](https://github.com/expressjs/serve-static/releases)
-- [Changelog](https://github.com/expressjs/serve-static/blob/v1.16.2/HISTORY.md)
-- [Commits](https://github.com/expressjs/serve-static/compare/v1.15.0...v1.16.2)
-
-Updates `express` from 4.19.2 to 4.21.0
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
-
----
-updated-dependencies:
-- dependency-name: serve-static
-  dependency-type: indirect
-- dependency-name: express
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d4f9be</div>
-                                        <div class="message">Bump body-parser and express
-
-Bumps [body-parser](https://github.com/expressjs/body-parser) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
-
-Updates `body-parser` from 1.20.2 to 1.20.3
-- [Release notes](https://github.com/expressjs/body-parser/releases)
-- [Changelog](https://github.com/expressjs/body-parser/blob/master/HISTORY.md)
-- [Commits](https://github.com/expressjs/body-parser/compare/1.20.2...1.20.3)
-
-Updates `express` from 4.19.2 to 4.21.0
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
-
----
-updated-dependencies:
-- dependency-name: body-parser
-  dependency-type: indirect
-- dependency-name: express
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#781a557</div>
-                                        <div class="message">Bump send and express
-
-Bumps [send](https://github.com/pillarjs/send) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
-
-Updates `send` from 0.18.0 to 0.19.0
-- [Release notes](https://github.com/pillarjs/send/releases)
-- [Changelog](https://github.com/pillarjs/send/blob/master/HISTORY.md)
-- [Commits](https://github.com/pillarjs/send/compare/0.18.0...0.19.0)
-
-Updates `express` from 4.19.2 to 4.21.0
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
-
----
-updated-dependencies:
-- dependency-name: send
-  dependency-type: indirect
-- dependency-name: express
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">dependabot[bot]</div>
-                                        pushed 9 commits in
-                                        <span class="repo">shakelang/specification</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-8.5.0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#60b5687</div>
-                                        <div class="message">Bump @typescript-eslint/eslint-plugin from 7.0.0 to 8.5.0
-
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 7.0.0 to 8.5.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.5.0/packages/eslint-plugin)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
   dependency-type: direct:development
   update-type: version-update:semver-major
 ...
@@ -995,7 +862,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 12 Sept 2024, 07:11:24 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Sept 2024, 08:15:37 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
