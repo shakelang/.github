@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1544" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1510" class="">
     <defs>
         <style/>
     </defs>
@@ -318,54 +318,16 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">dependabot[bot]</div>
-                                        pushed 3 commits in
-                                        <span class="repo">shakelang/shakelang.com</span>
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">shakelang/.github</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-8.15.0</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c164f3f</div>
-                                        <div class="message">Bump @typescript-eslint/eslint-plugin from 7.0.0 to 8.15.0
-
-Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 7.0.0 to 8.15.0.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.15.0/packages/eslint-plugin)
-
----
-updated-dependencies:
-- dependency-name: "@typescript-eslint/eslint-plugin"
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c189b1</div>
-                                        <div class="message">Merge pull request #356 from shakelang/dependabot/npm_and_yarn/mui/material-6.1.8
-
-Bump @mui/material from 6.1.7 to 6.1.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57d8703</div>
-                                        <div class="message">Bump @mui/material from 6.1.7 to 6.1.8
-
-Bumps [@mui/material](https://github.com/mui/material-ui/tree/HEAD/packages/mui-material) from 6.1.7 to 6.1.8.
-- [Release notes](https://github.com/mui/material-ui/releases)
-- [Changelog](https://github.com/mui/material-ui/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/mui/material-ui/commits/v6.1.8/packages/mui-material)
-
----
-updated-dependencies:
-- dependency-name: "@mui/material"
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#29d97e2</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -385,7 +347,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dependabot/npm_and_yarn/typescript-eslint/parser-8.15.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a3d4f2c</div>
+                                        <div class="sha">#b51deed</div>
                                         <div class="message">Bump @typescript-eslint/parser from 6.21.0 to 8.15.0
 
 Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 6.21.0 to 8.15.0.
@@ -403,23 +365,23 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1c189b1</div>
-                                        <div class="message">Merge pull request #356 from shakelang/dependabot/npm_and_yarn/mui/material-6.1.8
+                                        <div class="sha">#60359ad</div>
+                                        <div class="message">Merge pull request #357 from shakelang/dependabot/npm_and_yarn/emotion/styled-11.13.5
 
-Bump @mui/material from 6.1.7 to 6.1.8</div>
+Bump @emotion/styled from 11.13.0 to 11.13.5</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#57d8703</div>
-                                        <div class="message">Bump @mui/material from 6.1.7 to 6.1.8
+                                        <div class="sha">#dcf3da4</div>
+                                        <div class="message">Bump @emotion/styled from 11.13.0 to 11.13.5
 
-Bumps [@mui/material](https://github.com/mui/material-ui/tree/HEAD/packages/mui-material) from 6.1.7 to 6.1.8.
-- [Release notes](https://github.com/mui/material-ui/releases)
-- [Changelog](https://github.com/mui/material-ui/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/mui/material-ui/commits/v6.1.8/packages/mui-material)
+Bumps [@emotion/styled](https://github.com/emotion-js/emotion) from 11.13.0 to 11.13.5.
+- [Release notes](https://github.com/emotion-js/emotion/releases)
+- [Changelog](https://github.com/emotion-js/emotion/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/emotion-js/emotion/compare/@emotion/styled@11.13.0...@emotion/styled@11.13.5)
 
 ---
 updated-dependencies:
-- dependency-name: "@mui/material"
+- dependency-name: "@emotion/styled"
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
@@ -442,7 +404,31 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/emotion/styled-11.13.5</span></div>
+                                    <div>on branch <span class="code">dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-8.15.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#759f934</div>
+                                        <div class="message">Bump @typescript-eslint/eslint-plugin from 7.0.0 to 8.15.0
+
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 7.0.0 to 8.15.0.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.15.0/packages/eslint-plugin)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/eslint-plugin"
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60359ad</div>
+                                        <div class="message">Merge pull request #357 from shakelang/dependabot/npm_and_yarn/emotion/styled-11.13.5
+
+Bump @emotion/styled from 11.13.0 to 11.13.5</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#dcf3da4</div>
                                         <div class="message">Bump @emotion/styled from 11.13.0 to 11.13.5
@@ -455,30 +441,6 @@ Bumps [@emotion/styled](https://github.com/emotion-js/emotion) from 11.13.0 to 1
 ---
 updated-dependencies:
 - dependency-name: "@emotion/styled"
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c189b1</div>
-                                        <div class="message">Merge pull request #356 from shakelang/dependabot/npm_and_yarn/mui/material-6.1.8
-
-Bump @mui/material from 6.1.7 to 6.1.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57d8703</div>
-                                        <div class="message">Bump @mui/material from 6.1.7 to 6.1.8
-
-Bumps [@mui/material](https://github.com/mui/material-ui/tree/HEAD/packages/mui-material) from 6.1.7 to 6.1.8.
-- [Release notes](https://github.com/mui/material-ui/releases)
-- [Changelog](https://github.com/mui/material-ui/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/mui/material-ui/commits/v6.1.8/packages/mui-material)
-
----
-updated-dependencies:
-- dependency-name: "@mui/material"
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
@@ -498,7 +460,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <div class="user">dependabot[bot]</div>
                                         deleted
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/mui/material-6.1.8</span>
+                                        <span class="code">dependabot/npm_and_yarn/emotion/styled-11.13.5</span>
                                         in
                                         <span class="repo">shakelang/shakelang.com</span>
                                     </div>
@@ -520,23 +482,23 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1c189b1</div>
-                                        <div class="message">Merge pull request #356 from shakelang/dependabot/npm_and_yarn/mui/material-6.1.8
+                                        <div class="sha">#60359ad</div>
+                                        <div class="message">Merge pull request #357 from shakelang/dependabot/npm_and_yarn/emotion/styled-11.13.5
 
-Bump @mui/material from 6.1.7 to 6.1.8</div>
+Bump @emotion/styled from 11.13.0 to 11.13.5</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#57d8703</div>
-                                        <div class="message">Bump @mui/material from 6.1.7 to 6.1.8
+                                        <div class="sha">#dcf3da4</div>
+                                        <div class="message">Bump @emotion/styled from 11.13.0 to 11.13.5
 
-Bumps [@mui/material](https://github.com/mui/material-ui/tree/HEAD/packages/mui-material) from 6.1.7 to 6.1.8.
-- [Release notes](https://github.com/mui/material-ui/releases)
-- [Changelog](https://github.com/mui/material-ui/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/mui/material-ui/commits/v6.1.8/packages/mui-material)
+Bumps [@emotion/styled](https://github.com/emotion-js/emotion) from 11.13.0 to 11.13.5.
+- [Release notes](https://github.com/emotion-js/emotion/releases)
+- [Changelog](https://github.com/emotion-js/emotion/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/emotion-js/emotion/compare/@emotion/styled@11.13.0...@emotion/styled@11.13.5)
 
 ---
 updated-dependencies:
-- dependency-name: "@mui/material"
+- dependency-name: "@emotion/styled"
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
@@ -773,7 +735,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.79m out of 212m repositories</span>
+                                    <span class="gh">ranked 2.79m out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -811,7 +773,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.44m out of 212m repositories</span>
+                                    <span class="gh">ranked 2.44m out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -859,7 +821,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 </div>
             </section>
             <footer>
-                <span>Last updated 22 Nov 2024, 07:16:35 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2024, 08:11:49 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
