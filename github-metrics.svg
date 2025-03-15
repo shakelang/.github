@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1447" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1594" class="">
     <defs>
         <style/>
     </defs>
@@ -326,7 +326,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e7fe0e9</div>
+                                        <div class="sha">#fc54b2a</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -339,16 +339,54 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 3 commits in
+                                        <span class="repo">shakelang/shakelang.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dependabot/npm_and_yarn/typescript-eslint/parser-8.26.1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#41ce68f</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#e1cc270</div>
+                                        <div class="message">Bump @typescript-eslint/parser from 6.21.0 to 8.26.1
+
+Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 6.21.0 to 8.26.1.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.26.1/packages/parser)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/parser"
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#272c888</div>
+                                        <div class="message">Merge pull request #465 from shakelang/dependabot/npm_and_yarn/eslint-config-prettier-10.1.1
+
+Bump eslint-config-prettier from 10.0.1 to 10.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99a3c31</div>
+                                        <div class="message">Bump eslint-config-prettier from 10.0.1 to 10.1.1
+
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 10.0.1 to 10.1.1.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v10.0.1...v10.1.1)
+
+---
+updated-dependencies:
+- dependency-name: eslint-config-prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -360,16 +398,54 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 3 commits in
+                                        <span class="repo">shakelang/shakelang.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-8.26.1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b68eebc</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#744ee24</div>
+                                        <div class="message">Bump @typescript-eslint/eslint-plugin from 7.0.0 to 8.26.1
+
+Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 7.0.0 to 8.26.1.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.26.1/packages/eslint-plugin)
+
+---
+updated-dependencies:
+- dependency-name: "@typescript-eslint/eslint-plugin"
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#272c888</div>
+                                        <div class="message">Merge pull request #465 from shakelang/dependabot/npm_and_yarn/eslint-config-prettier-10.1.1
+
+Bump eslint-config-prettier from 10.0.1 to 10.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99a3c31</div>
+                                        <div class="message">Bump eslint-config-prettier from 10.0.1 to 10.1.1
+
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 10.0.1 to 10.1.1.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v10.0.1...v10.1.1)
+
+---
+updated-dependencies:
+- dependency-name: eslint-config-prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -381,16 +457,54 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 3 commits in
+                                        <span class="repo">shakelang/shakelang.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dependabot/npm_and_yarn/eslint-9.22.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8f5fd66</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#8d2efab</div>
+                                        <div class="message">Bump eslint from 8.57.1 to 9.22.0
+
+Bumps [eslint](https://github.com/eslint/eslint) from 8.57.1 to 9.22.0.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v8.57.1...v9.22.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#272c888</div>
+                                        <div class="message">Merge pull request #465 from shakelang/dependabot/npm_and_yarn/eslint-config-prettier-10.1.1
+
+Bump eslint-config-prettier from 10.0.1 to 10.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99a3c31</div>
+                                        <div class="message">Bump eslint-config-prettier from 10.0.1 to 10.1.1
+
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 10.0.1 to 10.1.1.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v10.0.1...v10.1.1)
+
+---
+updated-dependencies:
+- dependency-name: eslint-config-prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -402,16 +516,53 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">shakelang/.github</span>
+                                        <div class="user">dependabot[bot]</div>
+                                        pushed 3 commits in
+                                        <span class="repo">shakelang/shakelang.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dependabot/npm_and_yarn/octokit/core-6.1.4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#961d1cd</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#8f594d6</div>
+                                        <div class="message">Bump @octokit/core from 5.1.0 to 6.1.4
+
+Bumps [@octokit/core](https://github.com/octokit/core.js) from 5.1.0 to 6.1.4.
+- [Release notes](https://github.com/octokit/core.js/releases)
+- [Commits](https://github.com/octokit/core.js/compare/v5.1.0...v6.1.4)
+
+---
+updated-dependencies:
+- dependency-name: "@octokit/core"
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#272c888</div>
+                                        <div class="message">Merge pull request #465 from shakelang/dependabot/npm_and_yarn/eslint-config-prettier-10.1.1
+
+Bump eslint-config-prettier from 10.0.1 to 10.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99a3c31</div>
+                                        <div class="message">Bump eslint-config-prettier from 10.0.1 to 10.1.1
+
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 10.0.1 to 10.1.1.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v10.0.1...v10.1.1)
+
+---
+updated-dependencies:
+- dependency-name: eslint-config-prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -643,7 +794,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 2.86m out of 217m repositories</span>
+                                    <span class="gh">ranked 2.86m out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -681,7 +832,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.55m out of 217m repositories</span>
+                                    <span class="gh">ranked 2.55m out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -729,7 +880,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 15 Mar 2025, 00:11:48 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Mar 2025, 01:55:09 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
