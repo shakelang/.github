@@ -1,3 +1,4 @@
+# ARCHIVED: The shakelang project has been archived and is no longer maintained
 
 ### Shake is a modern object-orientated programming language
 
